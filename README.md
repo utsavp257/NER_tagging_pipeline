@@ -2,7 +2,7 @@
 
 # Cross-lingual NER Tagger using Samanantar
 
-This project creates NER-tagged datasets for low-resource Indic languages (Assamese, Gujarati, Punjabi) using English annotations and the Samanantar parallel corpus.
+This project creates NER-tagged datasets for low-resource Indic languages (Assamese, Bengali, Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Oriya, Gujarati, Punjabi) using English annotations and the Samanantar parallel corpus.
 
 ## Repository Structure
 
@@ -12,10 +12,8 @@ This project creates NER-tagged datasets for low-resource Indic languages (Assam
   - Word alignment using `awesome-align`
   - Tag projection to Indic
   - BIO conversion and JSON export
-- `tagged_samanantar/`: Folder with sample tagged files:
+- `tagged_samanantar/`: Folder with sample tagged file:
   - `assamese_ner.json`
-  - `gujarati_ner.json`
-  - `punjabi_ner.json`
 
 ---
 
