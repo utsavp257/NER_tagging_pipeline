@@ -4,6 +4,8 @@
 
 This project creates NER-tagged datasets for low-resource Indic languages (Assamese, Bengali, Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Oriya, Gujarati, Punjabi) using English annotations and the Samanantar parallel corpus.
 
+We also made a pipeline to scrape data from Wikipedia using the Wikipedia API. You can find it here : https://github.com/yash-mittal-2003/WikiMiner
+
 ## Repository Structure
 
 - `Samanantar_Tagger.ipynb`: Jupyter notebook with the full pipeline:
